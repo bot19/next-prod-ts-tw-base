@@ -1,11 +1,11 @@
-# Themed Component Library
+# Next.js Production Base
 
-My themed component library on Next (SSG). Loosely based on TW UI, for use in rapid prototyping personal projects.
+Next project base with TypeScript, Tailwind, eslint, prettier, pre-commit git hook, readme, ready to go.
 
 ## 🖥️ Tech
 
-To update...
+Uses latest packages of the above. Updated quarterly.
 
 ## 📝 Notes
 
-- ...
+Coming soon.
